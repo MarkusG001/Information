@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Puma9Mark
-- 👀 I’m interested in developing open-source projects
+- 👀 I’m interested in Pentesting and Ethical Hacking
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Business@pikachudns.de
